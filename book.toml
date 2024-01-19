@@ -1,6 +1,8 @@
 [book]
 authors = ["sevenc-nanashi"]
-language = "en"
+language = "ja"
 multilingual = false
 src = "src"
 title = "Voicevox Dev Book"
+
+[preprocessor.alerts]
